@@ -181,8 +181,8 @@ def main():
 
     # connect to source db
     try:
-        # db_connection = sqlite3.connect('./dev/cademycode.db')
-        db_connection = sqlite3.connect('./dev/cademycode_updated.db')
+        db_connection = sqlite3.connect('./dev/cademycode.db')
+        # db_connection = sqlite3.connect('./dev/cademycode_updated.db')
         # Create cursor object
         cursor = db_connection.cursor()
 

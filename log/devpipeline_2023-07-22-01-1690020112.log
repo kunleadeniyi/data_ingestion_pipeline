@@ -1,0 +1,5 @@
+2023-07-22 11:01:52,183 - __main__ - INFO - Starting log
+2023-07-22 11:01:52,241 - __main__ - INFO - Function test_career_id_foreign_keys called, passed succesfully
+2023-07-22 11:01:52,241 - __main__ - INFO - Function test_job_id_foreign_keys called, passed succesfully
+2023-07-22 11:01:52,489 - __main__ - INFO - added 4769 rows to table
+2023-07-22 11:01:52,489 - __main__ - INFO - End log
